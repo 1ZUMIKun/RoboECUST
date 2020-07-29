@@ -1,0 +1,33 @@
+Added Component: Designator=P19(HDR2X5)
+Added Pin To Net: NetName=PA11 Pin=P19-1
+Added Pin To Net: NetName=PA11 Pin=STM32F407ZET6-119
+Added Net: Name=PA11
+Added Pin To Net: NetName=PA12 Pin=P19-2
+Added Pin To Net: NetName=PA12 Pin=STM32F407ZET6-120
+Added Net: Name=PA12
+Added Pin To Net: NetName=PA13 Pin=P19-3
+Added Pin To Net: NetName=PA13 Pin=STM32F407ZET6-121
+Added Net: Name=PA13
+Added Pin To Net: NetName=PA14 Pin=P19-4
+Added Pin To Net: NetName=PA14 Pin=STM32F407ZET6-1
+Added Net: Name=PA14
+Added Pin To Net: NetName=PA15 Pin=P19-5
+Added Pin To Net: NetName=PA15 Pin=STM32F407ZET6-2
+Added Net: Name=PA15
+Added Pin To Net: NetName=PG10 Pin=P19-6
+Added Pin To Net: NetName=PG10 Pin=STM32F407ZET6-15
+Added Net: Name=PG10
+Added Pin To Net: NetName=PG11 Pin=P19-7
+Added Pin To Net: NetName=PG11 Pin=STM32F407ZET6-16
+Added Net: Name=PG11
+Added Pin To Net: NetName=PG12 Pin=P19-8
+Added Pin To Net: NetName=PG12 Pin=STM32F407ZET6-17
+Added Net: Name=PG12
+Added Pin To Net: NetName=PG13 Pin=P19-9
+Added Pin To Net: NetName=PG13 Pin=STM32F407ZET6-18
+Added Net: Name=PG13
+Added Pin To Net: NetName=PG15 Pin=P19-10
+Added Pin To Net: NetName=PG15 Pin=STM32F407ZET6-20
+Added Net: Name=PG15
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component P19 Header 5X2
+Added Room: Name=PCB Ver. 1.0

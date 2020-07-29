@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=VCC_5V Pin=STM32F407ZET6-61
+Added Pin To Net: NetName=GND Pin=STM32F407ZET6-62
+Added Pin To Net: NetName=GND Pin=STM32F407ZET6-92
+Added Pin To Net: NetName=GND Pin=STM32F407ZET6-122
+Added Room: Name=PCB Ver. 1.0

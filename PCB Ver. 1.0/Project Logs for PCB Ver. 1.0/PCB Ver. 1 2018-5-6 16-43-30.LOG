@@ -1,0 +1,173 @@
+Removed Pin From Net: NetName=VCC_24V Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=NetR1_2 Pin=R1-2
+Removed Pin From Net: NetName=VCC_ADJ Pin=R3-1
+Removed Pin From Net: NetName=NetD2_1 Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=NetR4_2 Pin=R4-2
+Removed Pin From Net: NetName=VCC_ADJ Pin=R6-1
+Removed Pin From Net: NetName=NetD4_1 Pin=R6-2
+Removed Member From Class: ClassName=PCB Ver. 1.0 Member=J1
+Removed Member From Class: ClassName=PCB Ver. 1.0 Member=J2
+Change Component Footprint: Designator=X1 Old Footprint=XT60-PB New Footprint=XT30UPB
+Change Component Footprint: Designator=X2 Old Footprint=XT60-PB New Footprint=XT30UPB
+Change Component Footprint: Designator=X3 Old Footprint=XT60-PB New Footprint=XT30UPB
+Change Component Footprint: Designator=X4 Old Footprint=XT60-PB New Footprint=XT30UPB
+Change Component Footprint: Designator=X5 Old Footprint=XT60-PB New Footprint=XT30UPB
+Change Component Footprint: Designator=X6 Old Footprint=XT60-PB New Footprint=XT30UPB
+Change Component Footprint: Designator=X7 Old Footprint=XT60-PB New Footprint=XT60PB
+Change Component Comment : Designator=D4 Old Comment=LED3 New Comment=LED_RED
+Change Component Comment : Designator=X1 Old Comment=XT30-PB New Comment=XT30
+Change Component Comment : Designator=X2 Old Comment=XT30-PB New Comment=XT30
+Change Component Comment : Designator=X3 Old Comment=XT30-PB New Comment=XT30
+Change Component Comment : Designator=X4 Old Comment=XT30-PB New Comment=XT30
+Change Component Comment : Designator=X5 Old Comment=XT30-PB New Comment=XT30
+Change Component Comment : Designator=X6 Old Comment=XT30-PB New Comment=XT30
+Change Component Comment : Designator=X7 Old Comment=XT60-PB New Comment=XT60
+Added Component: Designator=P17(HDR1X14)
+Added Component: Designator=P18(HDR2X14)
+Added Component: Designator=R1(AXIAL-0.4)
+Added Component: Designator=R3(AXIAL-0.4)
+Added Component: Designator=R4(AXIAL-0.4)
+Added Component: Designator=R6(AXIAL-0.4)
+Added Component: Designator=R50(1608[0603])
+Added Component: Designator=R51(1608[0603])
+Added Component: Designator=R52(1608[0603])
+Added Component: Designator=R53(1608[0603])
+Added Component: Designator=R54(1608[0603])
+Added Component: Designator=R55(1608[0603])
+Added Component: Designator=R56(1608[0603])
+Added Component: Designator=R57(1608[0603])
+Added Component: Designator=R58(1608[0603])
+Added Component: Designator=R59(1608[0603])
+Added Component: Designator=R60(1608[0603])
+Added Component: Designator=R61(1608[0603])
+Added Component: Designator=R62(1608[0603])
+Added Component: Designator=R63(1608[0603])
+Added Component: Designator=X0(XT90PW-M)
+Added Pin To Net: NetName=VCC_5V Pin=P18-1
+Added Pin To Net: NetName=GND Pin=P18-2
+Added Pin To Net: NetName=VCC_5V Pin=P18-3
+Added Pin To Net: NetName=GND Pin=P18-4
+Added Pin To Net: NetName=VCC_5V Pin=P18-5
+Added Pin To Net: NetName=GND Pin=P18-6
+Added Pin To Net: NetName=VCC_5V Pin=P18-7
+Added Pin To Net: NetName=GND Pin=P18-8
+Added Pin To Net: NetName=VCC_5V Pin=P18-9
+Added Pin To Net: NetName=GND Pin=P18-10
+Added Pin To Net: NetName=VCC_5V Pin=P18-11
+Added Pin To Net: NetName=GND Pin=P18-12
+Added Pin To Net: NetName=VCC_5V Pin=P18-13
+Added Pin To Net: NetName=GND Pin=P18-14
+Added Pin To Net: NetName=VCC_5V Pin=P18-15
+Added Pin To Net: NetName=GND Pin=P18-16
+Added Pin To Net: NetName=VCC_5V Pin=P18-17
+Added Pin To Net: NetName=GND Pin=P18-18
+Added Pin To Net: NetName=VCC_5V Pin=P18-19
+Added Pin To Net: NetName=GND Pin=P18-20
+Added Pin To Net: NetName=VCC_5V Pin=P18-21
+Added Pin To Net: NetName=GND Pin=P18-22
+Added Pin To Net: NetName=VCC_5V Pin=P18-23
+Added Pin To Net: NetName=GND Pin=P18-24
+Added Pin To Net: NetName=VCC_5V Pin=P18-25
+Added Pin To Net: NetName=GND Pin=P18-26
+Added Pin To Net: NetName=VCC_5V Pin=P18-27
+Added Pin To Net: NetName=GND Pin=P18-28
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=VCC_ADJ Pin=R3-1
+Added Pin To Net: NetName=NetD2_1 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=VCC_ADJ Pin=R6-1
+Added Pin To Net: NetName=NetD4_1 Pin=R6-2
+Added Pin To Net: NetName=VCC_24V Pin=X0-1
+Added Pin To Net: NetName=GND Pin=X0-2
+Added Pin To Net: NetName=NetP17_1 Pin=P17-1
+Added Pin To Net: NetName=NetP17_1 Pin=R50-2
+Added Net: Name=NetP17_1
+Added Pin To Net: NetName=NetP17_2 Pin=P17-2
+Added Pin To Net: NetName=NetP17_2 Pin=R51-2
+Added Net: Name=NetP17_2
+Added Pin To Net: NetName=NetP17_3 Pin=P17-3
+Added Pin To Net: NetName=NetP17_3 Pin=R52-2
+Added Net: Name=NetP17_3
+Added Pin To Net: NetName=NetP17_4 Pin=P17-4
+Added Pin To Net: NetName=NetP17_4 Pin=R53-2
+Added Net: Name=NetP17_4
+Added Pin To Net: NetName=NetP17_5 Pin=P17-5
+Added Pin To Net: NetName=NetP17_5 Pin=R54-2
+Added Net: Name=NetP17_5
+Added Pin To Net: NetName=NetP17_6 Pin=P17-6
+Added Pin To Net: NetName=NetP17_6 Pin=R55-2
+Added Net: Name=NetP17_6
+Added Pin To Net: NetName=NetP17_7 Pin=P17-7
+Added Pin To Net: NetName=NetP17_7 Pin=R56-2
+Added Net: Name=NetP17_7
+Added Pin To Net: NetName=NetP17_8 Pin=P17-8
+Added Pin To Net: NetName=NetP17_8 Pin=R57-2
+Added Net: Name=NetP17_8
+Added Pin To Net: NetName=NetP17_9 Pin=P17-9
+Added Pin To Net: NetName=NetP17_9 Pin=R58-2
+Added Net: Name=NetP17_9
+Added Pin To Net: NetName=NetP17_10 Pin=P17-10
+Added Pin To Net: NetName=NetP17_10 Pin=R59-2
+Added Net: Name=NetP17_10
+Added Pin To Net: NetName=NetP17_11 Pin=P17-11
+Added Pin To Net: NetName=NetP17_11 Pin=R60-2
+Added Net: Name=NetP17_11
+Added Pin To Net: NetName=NetP17_12 Pin=P17-12
+Added Pin To Net: NetName=NetP17_12 Pin=R61-2
+Added Net: Name=NetP17_12
+Added Pin To Net: NetName=NetP17_13 Pin=P17-13
+Added Pin To Net: NetName=NetP17_13 Pin=R62-2
+Added Net: Name=NetP17_13
+Added Pin To Net: NetName=NetP17_14 Pin=P17-14
+Added Pin To Net: NetName=NetP17_14 Pin=R63-2
+Added Net: Name=NetP17_14
+Added Pin To Net: NetName=PB3 Pin=R50-1
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=R51-1
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=R52-1
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=R53-1
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=R54-1
+Added Net: Name=PB7
+Added Pin To Net: NetName=PB8 Pin=R55-1
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=R56-1
+Added Net: Name=PB9
+Added Pin To Net: NetName=PE0 Pin=R57-1
+Added Net: Name=PE0
+Added Pin To Net: NetName=PE1 Pin=R58-1
+Added Net: Name=PE1
+Added Pin To Net: NetName=PE2 Pin=R59-1
+Added Net: Name=PE2
+Added Pin To Net: NetName=PE3 Pin=R60-1
+Added Net: Name=PE3
+Added Pin To Net: NetName=PE4 Pin=R61-1
+Added Net: Name=PE4
+Added Pin To Net: NetName=PE5 Pin=R62-1
+Added Net: Name=PE5
+Added Pin To Net: NetName=PE6 Pin=R63-1
+Added Net: Name=PE6
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component P17 Header 14
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component P18 Header 14X2
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R50 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R51 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R52 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R53 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R54 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R55 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R56 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R57 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R58 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R59 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R60 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R61 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R62 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R63 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component X0 XT90

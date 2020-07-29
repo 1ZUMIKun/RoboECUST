@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=TIM2_CH1 Pin=P5-1
+Removed Pin From Net: NetName=TIM2_CH2 Pin=P5-2
+Removed Pin From Net: NetName=TIM2_CH3 Pin=P5-3
+Removed Pin From Net: NetName=TIM2_CH4 Pin=P5-4
+Removed Pin From Net: NetName=TIM3_CH1 Pin=P5-5
+Removed Pin From Net: NetName=TIM3_CH2 Pin=P5-6
+Removed Pin From Net: NetName=TIM3_CH3 Pin=P5-7
+Removed Pin From Net: NetName=TIM3_CH4 Pin=P5-8
+Added Component: Designator=R64(6-0805_N)
+Added Component: Designator=R65(6-0805_N)
+Added Component: Designator=R66(6-0805_N)
+Added Component: Designator=R67(6-0805_N)
+Added Component: Designator=R68(6-0805_N)
+Added Component: Designator=R69(6-0805_N)
+Added Component: Designator=R70(6-0805_N)
+Added Component: Designator=R71(6-0805_N)
+Added Pin To Net: NetName=TIM2_CH1 Pin=R64-1
+Added Pin To Net: NetName=TIM2_CH2 Pin=R65-1
+Added Pin To Net: NetName=TIM2_CH3 Pin=R66-1
+Added Pin To Net: NetName=TIM2_CH4 Pin=R67-1
+Added Pin To Net: NetName=TIM3_CH1 Pin=R68-1
+Added Pin To Net: NetName=TIM3_CH2 Pin=R69-1
+Added Pin To Net: NetName=TIM3_CH3 Pin=R70-1
+Added Pin To Net: NetName=TIM3_CH4 Pin=R71-1
+Added Pin To Net: NetName=NetP5_1 Pin=P5-1
+Added Pin To Net: NetName=NetP5_1 Pin=R64-2
+Added Net: Name=NetP5_1
+Added Pin To Net: NetName=NetP5_2 Pin=P5-2
+Added Pin To Net: NetName=NetP5_2 Pin=R65-2
+Added Net: Name=NetP5_2
+Added Pin To Net: NetName=NetP5_3 Pin=P5-3
+Added Pin To Net: NetName=NetP5_3 Pin=R66-2
+Added Net: Name=NetP5_3
+Added Pin To Net: NetName=NetP5_4 Pin=P5-4
+Added Pin To Net: NetName=NetP5_4 Pin=R67-2
+Added Net: Name=NetP5_4
+Added Pin To Net: NetName=NetP5_5 Pin=P5-5
+Added Pin To Net: NetName=NetP5_5 Pin=R68-2
+Added Net: Name=NetP5_5
+Added Pin To Net: NetName=NetP5_6 Pin=P5-6
+Added Pin To Net: NetName=NetP5_6 Pin=R69-2
+Added Net: Name=NetP5_6
+Added Pin To Net: NetName=NetP5_7 Pin=P5-7
+Added Pin To Net: NetName=NetP5_7 Pin=R70-2
+Added Net: Name=NetP5_7
+Added Pin To Net: NetName=NetP5_8 Pin=P5-8
+Added Pin To Net: NetName=NetP5_8 Pin=R71-2
+Added Net: Name=NetP5_8
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R64 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R65 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R66 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R67 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R68 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R69 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R70 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R71 100R

@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=P7 Old Footprint=MHDR1X2 New Footprint=HDR1X2
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component P2 CAN1
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component P3 CAN1
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component P4 CAN1
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component P5 CAN1
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component P6 CAN1
+Added Room: Name=PCB Ver. 1.0

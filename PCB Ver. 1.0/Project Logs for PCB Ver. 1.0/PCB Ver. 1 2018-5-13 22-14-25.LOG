@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=PA11 Pin=P20-1
+Removed Pin From Net: NetName=PA12 Pin=P20-2
+Removed Pin From Net: NetName=PA13 Pin=P20-3
+Removed Pin From Net: NetName=PA14 Pin=P20-4
+Removed Pin From Net: NetName=PA15 Pin=P20-5
+Removed Pin From Net: NetName=PG10 Pin=P20-6
+Removed Pin From Net: NetName=PG11 Pin=P20-7
+Removed Pin From Net: NetName=PG12 Pin=P20-8
+Removed Pin From Net: NetName=PG13 Pin=P20-9
+Removed Pin From Net: NetName=PG15 Pin=P20-10
+Added Component: Designator=R72(6-0805_N)
+Added Component: Designator=R73(6-0805_N)
+Added Component: Designator=R74(6-0805_N)
+Added Component: Designator=R75(6-0805_N)
+Added Component: Designator=R76(6-0805_N)
+Added Component: Designator=R77(6-0805_N)
+Added Component: Designator=R78(6-0805_N)
+Added Component: Designator=R79(6-0805_N)
+Added Component: Designator=R80(6-0805_N)
+Added Component: Designator=R81(6-0805_N)
+Added Pin To Net: NetName=PA11 Pin=R72-1
+Added Pin To Net: NetName=PA12 Pin=R73-2
+Added Pin To Net: NetName=PA13 Pin=R74-1
+Added Pin To Net: NetName=PA14 Pin=R75-2
+Added Pin To Net: NetName=PA15 Pin=R76-1
+Added Pin To Net: NetName=PG10 Pin=R77-2
+Added Pin To Net: NetName=PG11 Pin=R78-1
+Added Pin To Net: NetName=PG12 Pin=R79-2
+Added Pin To Net: NetName=PG13 Pin=R80-1
+Added Pin To Net: NetName=PG15 Pin=R81-2
+Added Pin To Net: NetName=NetP20_1 Pin=P20-1
+Added Pin To Net: NetName=NetP20_1 Pin=R72-2
+Added Net: Name=NetP20_1
+Added Pin To Net: NetName=NetP20_2 Pin=P20-2
+Added Pin To Net: NetName=NetP20_2 Pin=R73-1
+Added Net: Name=NetP20_2
+Added Pin To Net: NetName=NetP20_3 Pin=P20-3
+Added Pin To Net: NetName=NetP20_3 Pin=R74-2
+Added Net: Name=NetP20_3
+Added Pin To Net: NetName=NetP20_4 Pin=P20-4
+Added Pin To Net: NetName=NetP20_4 Pin=R75-1
+Added Net: Name=NetP20_4
+Added Pin To Net: NetName=NetP20_5 Pin=P20-5
+Added Pin To Net: NetName=NetP20_5 Pin=R76-2
+Added Net: Name=NetP20_5
+Added Pin To Net: NetName=NetP20_6 Pin=P20-6
+Added Pin To Net: NetName=NetP20_6 Pin=R77-1
+Added Net: Name=NetP20_6
+Added Pin To Net: NetName=NetP20_7 Pin=P20-7
+Added Pin To Net: NetName=NetP20_7 Pin=R78-2
+Added Net: Name=NetP20_7
+Added Pin To Net: NetName=NetP20_8 Pin=P20-8
+Added Pin To Net: NetName=NetP20_8 Pin=R79-1
+Added Net: Name=NetP20_8
+Added Pin To Net: NetName=NetP20_9 Pin=P20-9
+Added Pin To Net: NetName=NetP20_9 Pin=R80-2
+Added Net: Name=NetP20_9
+Added Pin To Net: NetName=NetP20_10 Pin=P20-10
+Added Pin To Net: NetName=NetP20_10 Pin=R81-1
+Added Net: Name=NetP20_10
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R72 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R73 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R74 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R75 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R76 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R77 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R78 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R79 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R80 100R
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R81 100R
+Added Room: Name=PCB Ver. 1.0

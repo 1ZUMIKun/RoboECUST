@@ -1,0 +1,11 @@
+Change Component Comment : Designator=C3 Old Comment=Cap 35V New Comment=220¦ÌF 35V
+Change Component Comment : Designator=C7 Old Comment=Cap 35V New Comment=220¦ÌF 35V
+Change Component Comment : Designator=C2 Old Comment=Cap 50V New Comment=100¦ÌF 50V
+Change Component Comment : Designator=C6 Old Comment=Cap 50V New Comment=100¦ÌF 50V
+Change Component Comment : Designator=C1 Old Comment=Cap New Comment=0.1¦ÌF
+Change Component Comment : Designator=C5 Old Comment=Cap New Comment=0.1¦ÌF
+Change Component Comment : Designator=C4 Old Comment=Cap New Comment=1¦ÌF
+Change Component Comment : Designator=C8 Old Comment=Cap New Comment=1¦ÌF
+Change Component Comment : Designator=L1 Old Comment=Inductor New Comment=470
+Change Component Comment : Designator=L2 Old Comment=Inductor New Comment=470
+Added Room: Name=PCB Ver. 1.0

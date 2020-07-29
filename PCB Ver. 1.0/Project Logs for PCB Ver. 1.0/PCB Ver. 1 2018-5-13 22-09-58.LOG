@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetP16_9 Pin=P16-9
+Removed Pin From Net: NetName=NetP16_10 Pin=P16-10
+Removed Pin From Net: NetName=NetP16_11 Pin=P16-11
+Removed Pin From Net: NetName=NetP16_12 Pin=P16-12
+Removed Pin From Net: NetName=NetP16_13 Pin=P16-13
+Removed Pin From Net: NetName=VCC_5V Pin=P16-14
+Removed Pin From Net: NetName=VCC_3V3 Pin=P16-15
+Removed Pin From Net: NetName=GND Pin=P16-16
+Change Component Footprint: Designator=P16 Old Footprint=HDR2X8 New Footprint=HDR2X6
+Change Component Comment : Designator=P16 Old Comment=Header 8X2 New Comment=Header 6X2
+Added Component: Designator=P17(HDR2X4)
+Added Pin To Net: NetName=VCC_3V3 Pin=P16-9
+Added Pin To Net: NetName=VCC_5V Pin=P16-10
+Added Pin To Net: NetName=GND Pin=P16-11
+Added Pin To Net: NetName=GND Pin=P16-12
+Added Pin To Net: NetName=NetP16_9 Pin=P17-1
+Added Pin To Net: NetName=NetP16_10 Pin=P17-2
+Added Pin To Net: NetName=NetP16_11 Pin=P17-3
+Added Pin To Net: NetName=NetP16_12 Pin=P17-4
+Added Pin To Net: NetName=NetP16_13 Pin=P17-5
+Added Pin To Net: NetName=VCC_5V Pin=P17-6
+Added Pin To Net: NetName=VCC_3V3 Pin=P17-7
+Added Pin To Net: NetName=GND Pin=P17-8
+Change Net Name : Old Net Name=NetP16_9 New Net Name=NetP17_1
+Change Net Name : Old Net Name=NetP16_10 New Net Name=NetP17_2
+Change Net Name : Old Net Name=NetP16_11 New Net Name=NetP17_3
+Change Net Name : Old Net Name=NetP16_12 New Net Name=NetP17_4
+Change Net Name : Old Net Name=NetP16_13 New Net Name=NetP17_5
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component P17 Header 4X2
